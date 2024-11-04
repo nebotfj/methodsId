@@ -12,6 +12,10 @@
 // - Curve Finance Docs: https://curve.readthedocs.io/
 // - Chainlink Docs: https://docs.chain.link/
 
+
+// - Ethereum Signature Database: Function calls in the Ethereum Virtual Machine. https://www.4byte.directory/
+//   https://github.com/pipermerriam/ethereum-function-signature-registry
+
 // Basic Transfer Methods
 const TRANSFER_TYPES = {
   NATIVE_TRANSFER: {
