@@ -1,0 +1,10 @@
+{
+  "name": "ethereum-methods-database",
+  "version": "1.0.0",
+  "description": "Comprehensive database of Ethereum method signatures and descriptions",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
